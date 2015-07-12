@@ -452,6 +452,16 @@ footer .logo {
    margin-right:8px;
  }
 
+ .left-nav .items ul li:hover {
+ 	background: #34495e;
+ 	padding: 5px 3px 5px 3px;
+ }
+
+ .left-nav .items li.active {
+	background: #34495e;
+ 	padding: 5px 3px 5px 3px;
+ }
+
 /* ============ Left Nav Settings ============== */
 
 .left-nav .settings {
